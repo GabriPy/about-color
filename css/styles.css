@@ -1,0 +1,15 @@
+.form-color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+input {
+    size: 300%;
+}
+
+.hidden {
+    display: none;
+}
